@@ -13,7 +13,7 @@ At the moment, in most of the time i am looking for concepts, technologies and b
 If you want to talk about tech and the tech universe, you are more than welcome, my friend 🙂
 You can contact me by:
 
-(LinkedIn profile)[https://www.linkedin.com/in/giovane-ferreira-5469431a2/]
+[LinkedIn profile](https://www.linkedin.com/in/giovane-ferreira-5469431a2/)
 email: giovane.ferreira0210@gmail.com
 
 See you soon.
